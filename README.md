@@ -15,3 +15,5 @@ To set up and run your MVP:
    ```bash
    streamlit run app.py
    ```
+
+Prototype of the app: https://poseinstein2023dash.streamlit.app/
